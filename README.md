@@ -15,21 +15,16 @@
 - enu
 
 
+<img width="300" alt="Screen Shot 2021-11-25 at 2 53 27 PM" src="https://user-images.githubusercontent.com/92260200/143438837-5995f6f6-a4e7-4014-b304-6ef4221c1cd1.png">
+<img width="300" alt="Screen Shot 2021-11-25 at 2 53 46 PM" src="https://user-images.githubusercontent.com/92260200/143438864-0aa68bc6-c665-4e99-8df7-0467c1f81d7a.png">
 
 
-
-
-
-<img src="https://user-images.githubusercontent.com/92260200/143438103-c51c0b28-9819-407c-8b52-c6e52202e8c6.png" alt="Screenshot" width="300"/><img
-                                                                                                                                                     
-                                                                                                                                                     
-                                                                                                                                                     
-                                                                                                                                                     src="https://user-images.githubusercontent.com/92260200/143438177-f2754c1e-cc0b-4fe8-afba-2c6086277850.png" alt="Screenshot" width="300"/>
 
 
 # References
 
-- https://developer.android.com/guide/navigation/navigation-getting-started
-- https://medium.com/@muhamed.riyas/navigation-component-the-complete-guide-c51c9911684
+- https://developer.android.com/courses/pathways/android-basics-kotlin-unit-4-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images
+
+
 
 
